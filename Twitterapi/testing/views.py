@@ -3,4 +3,4 @@ from django.http import HttpResponse
 
 
 def home(request):
-    return HttpResponse("Hello, world. You're at the twitterapi home page.")
+    return HttpResponse("Hello, world. You're at twitterapi home page.")
